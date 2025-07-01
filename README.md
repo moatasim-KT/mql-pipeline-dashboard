@@ -213,15 +213,6 @@ For detailed technical documentation, see:
 - Reduce the number of selected deal owners for large datasets
 - Consider data aggregation for very large files
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-
-1. Fork the repository
-2. Create a feature branch
-3. Add your improvements
-4. Submit a pull request
-
 ### Development Guidelines
 
 - Follow existing code style and structure
@@ -230,15 +221,6 @@ Contributions are welcome! Please feel free to:
 - Test with various data formats
 - Update documentation for new features
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📧 Contact
-
-For questions or support:
-- GitHub: [@moatasim-KT](https://github.com/moatasim-KT)
-- Issues: [GitHub Issues](https://github.com/moatasim-KT/mql-pipeline-dashboard/issues)
 
 ## 🚀 Roadmap
 
@@ -250,8 +232,3 @@ For questions or support:
 - [ ] Custom dashboard themes
 - [ ] Real-time data connections
 - [ ] Machine learning insights
-- [ ] Mobile responsive design improvements
-
----
-
-**Built with ❤️ using Streamlit, Plotly, and Pandas**
